@@ -1,3 +1,4 @@
+#学習環境を整える
 $ python create_input_files.py
 #学習
 $ python cubTrain.py
