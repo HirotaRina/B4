@@ -2,6 +2,7 @@
 $ python create_input_files.py
 #学習
 $ python cubTrain.py
+＃環境構築
 $ pip uninstall scipy
 $ pip install scipy==1.2.0
 $ pip uninstall pillow
